@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "firstName": "wertyu",
+      "lastName": "hussain",
+      "email": "saazidhussain@gmail.com",
+      "mobile": "07987427362",
+      "salary": "989899898",
+      "id": 1
+    },
+    {
+      "firstName": "wertyuiop",
+      "lastName": "qwertyuio",
+      "email": "saazidhussain@gmail.com",
+      "mobile": "07987427362",
+      "salary": "444444",
+      "id": 7
+    },
+    {
+      "firstName": "nbnbbn",
+      "lastName": "nbnbn",
+      "email": "sazz@gmail.cim",
+      "mobile": "8989898",
+      "salary": "8787",
+      "id": 8
+    },
+    {
+      "firstName": "bbbbbb",
+      "lastName": "hhhhhhhhhhh",
+      "email": "nmnmn@gmail.com",
+      "mobile": "87878787878",
+      "salary": "88888",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
